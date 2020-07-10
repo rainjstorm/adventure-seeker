@@ -36,3 +36,30 @@ h3 {
   float: left;
   padding-left: 20px;
 }
+
+a{
+	display: block;
+}
+#lalink{
+	position: relative;
+	left:164px;
+	top:-394px;
+}
+
+#deslink{
+	position: relative;
+	left:684px;
+	top:-275px;
+}
+
+#izlink{
+	position: relative;
+	left:645px;
+	top:-480px;
+}
+
+#berlink{
+	position: relative;
+	left:600px;
+	top:-525px;
+}
